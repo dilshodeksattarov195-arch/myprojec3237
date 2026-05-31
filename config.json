@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceverify",
+        "uuid": 17444193,
+        "checksum": "egbz1g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
